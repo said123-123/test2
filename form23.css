@@ -1,0 +1,140 @@
+body{
+    background-color: rgb(197, 197, 197);
+}
+.scene{
+    background-color: rgb(238, 238, 238);
+    border: 1px solid gray;
+    width: 400px;
+    height: 380px;
+    margin-left: 520px;
+    margin-top: 200px;
+}
+.hovers{
+    display: flex;
+    background-color: white;
+        width: 384px;
+        margin-top: 10px;
+        margin-left: 7px;
+    height: 70px;
+    text-align: center;
+}
+.qwe{
+    height: 30px;
+    width: 100px;
+    padding-bottom: 6px;
+    padding-left: 13px;
+    margin-top: 15px;
+    margin-left: 10px;
+    background-color: rgb(238, 238, 238);
+    border-radius: 10px;
+    color: rgb(68, 68, 68);
+}
+.qwe2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.qwe3{
+   margin-top: 10px;
+
+}
+.icon{
+position: absolute;
+left: 553px;
+top: 237px;
+}
+.icon1{
+    position: absolute;
+    left: 685px;
+    top: 237px;
+    }
+    .icon2{
+        position: absolute;
+        left: 800px;
+        top: 237px; 
+    }
+.qwe:hover{
+    color: white;
+    background-color: rgb(77, 77, 255);
+    transition: 0.5s;
+}
+legend{
+    font-weight: 600;
+    color: black;
+    font-size: 15px;
+}
+.divs{
+    margin-top: 20px;
+}
+.divs1{
+    margin-left: 7px;
+}
+.input1{
+    width: 375px;
+    height: 25px;
+    border-radius:5px;
+    border: none;
+    border: 1px solid gray;
+}
+.icons{
+    background-color: rgb(189, 189, 189);
+    width: 75px;
+    position: absolute;
+    margin-left: 303px;
+    margin-top: -28px;
+    border: none;
+    border: solid 1px gray;
+    border-radius: 0px 5px 5px 0px;
+    height: 25px;
+}
+.input2{
+    width: 100px;
+    height: 25px;
+    border-radius:5px 0px 0px 5px;
+    border: none;
+    border: 1px solid gray;
+}
+.input3{
+    width: 100px;
+    height: 25px;
+    border-radius:0px 5px 5px 0px;
+    border: none;
+    border: 1px solid gray;
+margin-left: -5px;
+}
+.input4{
+    width: 120px;
+    height: 25px;
+    border-radius:5px;
+    border: none;
+    border: 1px solid gray;
+margin-left: -5px;
+}
+.g{
+    margin-left: 260px;
+    margin-top: -46px;
+}
+.submit{
+    background-color: rgb(204, 204, 204);
+        width: 384px;
+        margin-top: 20px;
+        margin-left: 7px;
+    height: 65px;
+}
+.submit2{
+    margin-top: 13px;
+    margin-left:16px;
+    height: 40px;
+    width: 350px;
+    border:none ;
+    border-radius: 5px;
+    background-color: rgb(77, 77, 255);
+    color: white;
+}
+.icons4{
+    color: rgb(68, 68, 68);
+    margin-left: 6px;
+    margin-top: 4px;
+}
+input{
+    outline: none;
+}
